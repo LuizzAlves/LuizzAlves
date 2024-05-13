@@ -14,9 +14,12 @@
   ##
   
 <div>
-  <a href="https://github.com/LuizzAlves">
-  <img height="155em" src="https://github-readme-stats.vercel.app/api?username=LuizzAlves&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizAlves&layout=compact&langs_count=16&theme=midnight-purple"/>
+  <p align="center">
+    <a href="https://github.com/LuizzAlves">
+      <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LuizzAlves&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+      <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizAlves&layout=compact&langs_count=16&theme=midnight-purple"/>
+    </a>
+  </p>
 </div> 
 
 <br>
